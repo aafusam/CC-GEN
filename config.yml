@@ -1,9 +1,9 @@
-API_ID: 
-API_HASH: 
-BOT_TOKEN: 
+API_ID: 9998484
+API_HASH: 86dbbc3288bbcf9fe1753e1c4ae1f517
+BOT_TOKEN: 5077201853:AAEcwtNbeeEyjmhQ4SeYE3GFeLO-ltNHFiw
 
 
-MONGO_URL: 
+MONGO_URL: mongodb+srv://afiqsam:afiqsam@cluster0.0wb1c.mongodb.net/afiqsam?retryWrites=true&w=majority
 REDIS_URI:
 REDIS_PORT:
 REDIS_PASS:
